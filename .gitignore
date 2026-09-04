@@ -1,0 +1,14 @@
+.sconsign.dblite
+*__pycache__/
+build/
+_build/
+*.lst
+*.map
+*__info_array.c
+*.o
+*.elf
+*.bin
+*.hex
+*.asm
+.idea/
+.vscode/

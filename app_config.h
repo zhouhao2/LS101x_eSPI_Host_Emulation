@@ -1,0 +1,10 @@
+#ifndef APP_CONFIG_H_
+#define APP_CONFIG_H_
+
+#define SDK_DEEP_SLEEP_ENABLE 0
+
+#define LOG_UART_TXD PH05
+#define LOG_UART_RXD PH04
+#define LOG_UART_BAUDRATE UART_BAUDRATE_115200
+
+#endif
